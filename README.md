@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thameezahmd
-- 👀 I’m interested in front end development
+- 👀 I’m a full stack develpoer
 - 🌱 I’m currently learning Asp.net mvc
 - 💞️ I’m looking to collaborate on .net
 - 📫 How to reach me ...
